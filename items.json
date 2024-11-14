@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Health Potion",
+        "effect": {
+            "type": "heal",
+            "value": 20
+        }
+    },
+    {
+        "name": "Sword",
+        "effect": {
+            "type": "attack",
+            "value": 5
+        }
+    },
+    {
+        "name": "Shield",
+        "effect": {
+            "type": "defense",
+            "value": 3
+        }
+    },
+    {
+        "name": "Attack Boost",
+        "effect": {
+            "type": "buff",
+            "value": 3
+        }
+    },
+    {
+        "name": "Large Health Potion",
+        "effect": {
+            "type": "heal",
+            "value": 50
+        }
+    },
+    {
+        "name": "Battle Axe",
+        "effect": {
+            "type": "attack",
+            "value": 8
+        }
+    },
+    {
+        "name": "Iron Armor",
+        "effect": {
+            "type": "defense",
+            "value": 5
+        }
+    },
+    {
+        "name": "Strength Elixir",
+        "effect": {
+            "type": "buff",
+            "value": 4
+        }
+    },
+    {
+        "name": "Elixir of Immortality",
+        "effect": {
+            "type": "heal",
+            "value": 100
+        }
+    },
+    {
+        "name": "Infinity Blade",
+        "effect": {
+            "type": "attack",
+            "value": 20
+        }
+    },
+    {
+        "name": "Dragon Slayer",
+        "effect": {
+            "type": "attack",
+            "value": 25
+        }
+    },
+    {
+        "name": "Mystic Armor",
+        "effect": {
+            "type": "defense",
+            "value": 10
+        }
+    },
+    {
+        "name": "Fortitude Shield",
+        "effect": {
+            "type": "defense",
+            "value": 15
+        }
+    },
+    {
+        "name": "Titan's Strength Potion",
+        "effect": {
+            "type": "buff",
+            "value": 10
+        }
+    }
+]

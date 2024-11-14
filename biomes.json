@@ -1,0 +1,38 @@
+{
+    "F": {
+        "entry": [
+            "You enter a dense forest. The trees are towering above you.",
+            "The forest is dark and filled with strange noises.",
+            "You step into the forest, the air is damp and smells of moss."
+        ],
+        "stationary": [
+            "The trees seem to whisper around you.",
+            "A rustle in the leaves startles you, but it’s just a squirrel.",
+            "The forest feels alive, as if watching your every move."
+        ]
+    },
+    "R": {
+        "entry": [
+            "You arrive by a flowing river. The water is crystal clear.",
+            "The sound of rushing water fills the air as you reach the river.",
+            "You see a river, its current strong and unwavering."
+        ],
+        "stationary": [
+            "The water flows peacefully, reflecting the sky.",
+            "You watch the river, noticing fish darting in the water.",
+            "The river continues to flow, undisturbed by your presence."
+        ]
+    },
+    "M": {
+        "entry": [
+            "You climb into the mountains, the air is thin and cold.",
+            "Rocky terrain surrounds you as you reach the mountains.",
+            "You are surrounded by high peaks and a chilling wind."
+        ],
+        "stationary": [
+            "The mountains stand tall and imposing.",
+            "A gust of wind brushes past, chilling you to the bone.",
+            "The quiet in the mountains is almost overwhelming."
+        ]
+    }
+}

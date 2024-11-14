@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Goblin",
+        "hp": 10,
+        "attack": 2,
+        "defense": 1
+    },
+    {
+        "name": "Orc",
+        "hp": 20,
+        "attack": 5,
+        "defense": 3
+    },
+    {
+        "name": "Dragon",
+        "hp": 50,
+        "attack": 10,
+        "defense": 3
+    },
+    {
+        "name": "Skeleton",
+        "hp": 15,
+        "attack": 4,
+        "defense": 2
+    },
+    {
+        "name": "Troll",
+        "hp": 30,
+        "attack": 7,
+        "defense": 4
+    },
+    {
+        "name": "Bandit",
+        "hp": 18,
+        "attack": 6,
+        "defense": 2
+    },
+    {
+        "name": "Wolf",
+        "hp": 12,
+        "attack": 3,
+        "defense": 1
+    },
+    {
+        "name": "Sorcerer",
+        "hp": 25,
+        "attack": 8,
+        "defense": 1
+    }
+]
